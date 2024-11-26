@@ -2,9 +2,8 @@
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px; white-space: nowrap;">Olá, sou um entusiasta de tecnologia com grande paixão por aprender e ensinar. Adoro explorar novas ferramentas e experimentar soluções criativas para desafios do cotidiano. Minha missão é sempre evoluir e melhorar minhas habilidades.</p>
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" />
+<div align="right">
+  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif"  />
 </div>
 
 ###
@@ -42,7 +41,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevHyagooc&radius=10&theme=monokai&area=true&order=5&bg_color=272822&point=f79f2f&title_color=e4266e&line=e4266e&area_color=e15794&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
 </div>
 
