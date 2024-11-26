@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="max-width: 60%; word-wrap: break-word; text-align: justify;">
     <p>
-      Atualmente, Minha atuação principal é como Suporte N2, onde sou responsável por acompanhar e auxiliar os desenvolvedores, registrar bugs, realizar testes regressivos na plataforma e criar extensões internas para melhorar a eficiência dos colaboradores. Atualmente, também estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.
+      Atualmente, Minha atuação principal é como Suporte N2, onde sou responsável por acompanhar e auxiliar os desenvolvedores, registrar bugs, realizar testes regressivos na plataforma e criar extensões internas para melhorar a eficiência dos colaboradores. Além disso, também estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.
     </p>
   </div>
 
