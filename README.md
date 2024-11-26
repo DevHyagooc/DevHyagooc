@@ -2,8 +2,8 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="max-width: 70%;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; max-width: 70%;">
     <p>
       Atualmente, sou estudante de Ciências da Computação e trabalho em uma empresa que oferece uma 
       plataforma de gestão e vendas via WhatsApp, com foco em automações para otimizar os processos 
@@ -20,7 +20,9 @@
       confiabilidade do software.</li>
     </ul>
   </div>
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" style="margin-left: 20px;" />
+  <div style="margin-left: 20px;">
+    <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" />
+  </div>
 </div>
 
 ###
