@@ -34,6 +34,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/tray/mac-normal-inverse@2x.png?raw=true" height="40" alt="cypress logo" />
+  
 </div>
 
 ###
