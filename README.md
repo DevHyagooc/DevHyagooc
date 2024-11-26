@@ -2,9 +2,11 @@
 
 ###
 
-<div align="right">
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif"  />
+<div style="text-align: right;">
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">Seu texto aqui</span>
+  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" style="display: inline-block;" />
 </div>
+
 
 ###
 
