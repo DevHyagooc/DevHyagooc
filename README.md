@@ -2,18 +2,26 @@
 
 ###
 
-<div style="text-align: right;">
-  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">Atualmente, sou estudante de Ciências da Computação e trabalho em uma empresa que oferece uma plataforma de gestão e vendas via WhatsApp, com foco em automações para otimizar os processos de nossos clientes.
-
-Minha atuação principal é como Suporte N2, onde sou responsável por:
-
-Acompanhar e auxiliar os desenvolvedores;
-Registrar bugs e realizar testes regressivos na plataforma;
-Criar extensões internas para melhorar a eficiência dos colaboradores.
-Além disso, estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.</span>
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" style="display: inline-block;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="max-width: 70%;">
+    <p>
+      Atualmente, sou estudante de Ciências da Computação e trabalho em uma empresa que oferece uma 
+      plataforma de gestão e vendas via WhatsApp, com foco em automações para otimizar os processos 
+      de nossos clientes.
+    </p>
+    <p>
+      Minha atuação principal é como Suporte N2, onde sou responsável por:
+    </p>
+    <ul>
+      <li>Acompanhar e auxiliar os desenvolvedores;</li>
+      <li>Registrar bugs e realizar testes regressivos na plataforma;</li>
+      <li>Criar extensões internas para melhorar a eficiência dos colaboradores.</li>
+      <li>Iniciar o desenvolvimento de testes automatizados para aprimorar a qualidade e a 
+      confiabilidade do software.</li>
+    </ul>
+  </div>
+  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" style="margin-left: 20px;" />
 </div>
-
 
 ###
 
