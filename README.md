@@ -3,7 +3,7 @@
 ###
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px;">Olá, sou um entusiasta de tecnologia com grande paixão por aprender e ensinar. Adoro explorar novas ferramentas e experimentar soluções criativas para desafios do cotidiano. Minha missão é sempre evoluir e melhorar minhas habilidades.</p>
+  <p style="margin-right: 20px; white-space: nowrap;">Olá, sou um entusiasta de tecnologia com grande paixão por aprender e ensinar. Adoro explorar novas ferramentas e experimentar soluções criativas para desafios do cotidiano. Minha missão é sempre evoluir e melhorar minhas habilidades.</p>
   <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" />
 </div>
 
