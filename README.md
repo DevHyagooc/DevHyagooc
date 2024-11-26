@@ -1,9 +1,16 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Olá! Eu sou o Hyago</h2>
 
 ###
 
 <div style="text-align: right;">
-  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">Seu texto aqui</span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">Atualmente, sou estudante de Ciências da Computação e trabalho em uma empresa que oferece uma plataforma de gestão e vendas via WhatsApp, com foco em automações para otimizar os processos de nossos clientes.
+
+Minha atuação principal é como Suporte N2, onde sou responsável por:
+
+Acompanhar e auxiliar os desenvolvedores;
+Registrar bugs e realizar testes regressivos na plataforma;
+Criar extensões internas para melhorar a eficiência dos colaboradores.
+Além disso, estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.</span>
   <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" style="display: inline-block;" />
 </div>
 
