@@ -2,21 +2,26 @@
 
 ###
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="max-width: 60%; word-wrap: break-word; text-align: justify;">
     <p>
       Atualmente, minha atuação principal é como Suporte N2, onde sou responsável por acompanhar e auxiliar os desenvolvedores, registrar bugs, realizar testes regressivos na plataforma e criar extensões internas para melhorar a eficiência dos colaboradores. Além disso, também estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.
     </p>
   </div>
-
-  <div>
-    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" />
-  </div>
+<br></br>
+  <div align="left">
+  <a href="https://www.linkedin.com/in/hyagooc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/hyagooc?igsh=MW83bGpycXU5OG13Mg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5579981007521" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
-
-
-
-###
 
 <h2 align="left">Tecnologias</h2>
 
@@ -57,16 +62,3 @@
 </div>
 
 ###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hyagooc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/hyagooc?igsh=MW83bGpycXU5OG13Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
