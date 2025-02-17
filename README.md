@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxmczl5cXRiamZ0OHB0enkxZWZpcGY0Z3dvMmNha2Z6eGYyNm9vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLIVGGPBF5CogXXfWT/giphy.gif" alt="gif do anime dandadan" min-width="200px" max-width="200px" width="200px" align="right">
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="max-width: 60%; word-wrap: break-word; text-align: justify;">
