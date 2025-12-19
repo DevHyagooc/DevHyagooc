@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="max-width: 60%; word-wrap: break-word; text-align: justify;">
     <p>
-      Atualmente, minha atuação principal é como Suporte N2, onde sou responsável por acompanhar e auxiliar os desenvolvedores, registrar bugs, realizar testes regressivos na plataforma e criar extensões internas para melhorar a eficiência dos colaboradores. Além disso, também estou iniciando o desenvolvimento de testes automatizados para aprimorar a qualidade e a confiabilidade do software.
+      Atualmente, atuo como QA, sendo responsável pela elaboração e execução de testes funcionais e regressivos, acompanhamento e registro de bugs, apoio ao time de desenvolvimento e criando automações de testes para aumentar a qualidade e a confiabilidade das aplicações.
     </p>
   </div>
 <br></br>
@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/hyagooc?igsh=MW83bGpycXU5OG13Mg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/5579981007521" target="_blank">
+  <a href="https://wa.me/5579988626317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
