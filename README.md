@@ -53,14 +53,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevHyagooc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20de%20Hyago" height="173" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevHyagooc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true&order=2" height="173" alt="languages graph" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevHyagooc&radius=10&theme=monokai&area=true&order=5&bg_color=272822&point=f79f2f&title_color=e4266e&line=e4266e&area_color=e15794&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%B5es" height="285" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevHyagooc&radius=10&theme=monokai&area=true&order=5&bg_color=272822&point=f79f2f&title_color=e4266e&line=e4266e&area_color=e15794&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%B5es" height="290" alt="activity-graph graph" />
 </div>
 
 ###
