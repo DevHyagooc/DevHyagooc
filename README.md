@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="max-width: 60%; word-wrap: break-word; text-align: justify;">
     <p>
-      Atualmente, atuo como QA, sendo responsável pela elaboração e execução de testes funcionais e regressivos, acompanhamento e registro de bugs, apoio ao time de desenvolvimento e criando automações de testes para aumentar a qualidade e a confiabilidade das aplicações.
+      Sou Analista de Qualidade (QA) com experiência em testes manuais e automatizados para aplicações web e mobile. Atuo em todo o ciclo de qualidade de software, desde o levantamento de requisitos até a validação final. Tenho experiência com testes funcionais, exploratórios e regressivos, além da automação de testes E2E e de API utilizando Cypress, Playwright e Jest. Também trabalho com validação de APIs REST (Postman/Insomnia), análise de dados com SQL e colaboração em times ágeis (Scrum/Kanban), sempre focado em melhorar a qualidade e confiabilidade das aplicações.
     </p>
   </div>
 <br></br>
@@ -28,22 +28,22 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" />
+  <img width="12" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="40"/>
+  <img width="12" />
+  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/tray/mac-normal-inverse@2x.png?raw=true" height="40" alt="cypress logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
-  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/tray/mac-normal-inverse@2x.png?raw=true" height="40" alt="cypress logo" />
-  
+  <img width="12" />  
 </div>
 
 ###
